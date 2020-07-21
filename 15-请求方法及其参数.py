@@ -21,7 +21,7 @@ import requests
 url = "http://www.renren.com/PLogin.do"
 form_data = {
     "email" : "15978476217",
-    "password" : "Leo@15978476217"
+    "password" : "**************"
 }
 response = requests.post(url=url, data=form_data)
 print(response.status_code)
