@@ -26,4 +26,3 @@ form_data = {
 response = requests.post(url=url, data=form_data)
 print(response.status_code)
 print(response.content.decode())
-# 今天天气非常好 但是github不同步代码
