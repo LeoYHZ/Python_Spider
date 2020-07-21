@@ -1,0 +1,39 @@
+{
+  "class_id": "Python_1班",
+  "class_stu": [
+    {
+      "stu_id": 9527,
+      "stu_name": "Mary",
+      "stu_age": 18,
+      "stu_score": [
+        {
+          "subject_id": 1001,
+          "subject_name": "math",
+          "score": 87.2
+          },
+        {
+          "subject_id": 1002,
+          "subject_name": "english",
+          "score": 85.1
+        }
+      ]
+    },
+    {
+      "stu_id": 9528,
+      "stu_name": "Jack",
+      "stu_age": 19,
+      "stu_score": [
+        {
+          "subject_id": 1001,
+          "subject_name": "math",
+          "score": 65.2
+          },
+        {
+          "subject_id": 1002,
+          "subject_name": "english",
+          "score": 81.3
+        }
+      ]
+    }
+  ]
+}

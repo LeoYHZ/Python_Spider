@@ -1,0 +1,631 @@
+{
+    "IP_add": "https://www.dy2018.com/i/101932.html",
+    "name": "伦敦生活",
+    "time": "2020-04-24",
+    "rate": "9",
+    "link": "magnet:?xt=urn:btih:528d27bb825c824e7f28ea0dfa78e60caab1ff13&dn=[电影天堂www.dytt89.com]伦敦生活BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101843.html",
+    "name": "绝地战警：疾速追击",
+    "time": "2020-04-14",
+    "rate": "6.6",
+    "link": "magnet:?xt=urn:btih:c6cd11605900b55810e899b52c324f4a6c2cce57&dn=[电影天堂www.dytt89.com]绝地战警：疾速追击BD中字.mp4 magnet:?xt=urn:btih:891fb5897737ea531a229dc397a7f62f6d67d023&dn=[电影天堂www.dytt89.com]绝地战警：疾速追击HD中字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101902.html",
+    "name": "红鞋子和七个小矮人",
+    "time": "2020-04-14",
+    "rate": "7.6",
+    "link": "magnet:?xt=urn:btih:6f4554186f9a9235b799df4afc81ee50bfea7516&dn=[电影天堂www.dytt89.com]红鞋子和七个小矮人BD国粤英三语中英双字.mp4 magnet:?xt=urn:btih:4f716b4da22934f62ddb68b958543deaea4a421b&dn=[电影天堂www.dytt89.com]红鞋子和七个小矮人BD英韩双语中字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101901.html",
+    "name": "我的间谍",
+    "time": "2020-04-10",
+    "rate": "6.1",
+    "link": "magnet:?xt=urn:btih:fccfec4876f4f09ec501cb39d23c66a8ebe7b428&dn=[电影天堂www.dytt89.com]我的间谍BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101899.html",
+    "name": "军人的妻子",
+    "time": "2020-04-10",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:21fd8e384c3094ca0bbd7435d10595302828f534&dn=[电影天堂www.dytt89.com]军人的妻子BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101891.html",
+    "name": "姐妹老板",
+    "time": "2020-04-09",
+    "rate": "4.9",
+    "link": "magnet:?xt=urn:btih:4c21a35c251482efc91882aa20017288e405b32f&dn=[电影天堂www.dytt89.com]姐妹老板BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101886.html",
+    "name": "美好年代",
+    "time": "2020-04-08",
+    "rate": "8.2",
+    "link": "magnet:?xt=urn:btih:6c7a61bc03a2c55615e337d9900ce0b5d5d61b56&dn=[电影天堂www.dytt89.com]美好年代BD法语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101884.html",
+    "name": "缅因姐妹",
+    "time": "2020-04-08",
+    "rate": "6.1",
+    "link": "magnet:?xt=urn:btih:687afa84c211fe49ef0e8c4753a131e3718c698f&dn=[电影天堂www.dytt89.com]缅因姐妹BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101882.html",
+    "name": "超级青春期",
+    "time": "2020-04-07",
+    "rate": "6.4",
+    "link": "magnet:?xt=urn:btih:ea4629590a3ebe1f5aa070bbdfee871947281fd1&dn=[电影天堂www.dytt89.com]超级青春期BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101109.html",
+    "name": "女警",
+    "time": "2020-04-06",
+    "rate": "6.8",
+    "link": "magnet:?xt=urn:btih:e8c58c70cdd8d24670737150dcdd023846552944&dn=[电影天堂www.dytt89.com]女警BD韩语中字.mp4 magnet:?xt=urn:btih:b5802cfbcbb5604de4425fd5d82a5d1e2ea542f5&dn=[电影天堂www.dy2018.com]女警HD韩语中字.mkv ",
+    "format": "mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101757.html",
+    "name": "变身特工",
+    "time": "2020-04-03",
+    "rate": "7.7",
+    "link": "magnet:?xt=urn:btih:9910700c256cbe20298ae8d2ba2b7975f089f9ed&dn=[电影天堂www.dytt89.com]变身特工BD国粤双语中英双字.mp4 magnet:?xt=urn:btih:c6ba7ac505c04667723416fc3beefcc4f2da0c98&dn=[电影天堂www.dytt89.com]变身特工BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101710.html",
+    "name": "多力特的奇幻冒险",
+    "time": "2020-04-03",
+    "rate": "5.5",
+    "link": "magnet:?xt=urn:btih:f94ce32a56503d8f29b243d0482d339d047b5a1f&dn=[电影天堂www.dytt89.com]多力特的奇幻冒险BD中英双字.mp4 magnet:?xt=urn:btih:5b9d99331c9585e2e944d42536abf2f63d222903&dn=[电影天堂www.dytt89.com]多力特的奇幻冒险HD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101848.html",
+    "name": "1/2的魔法",
+    "time": "2020-03-30",
+    "rate": "7.9",
+    "link": "magnet:?xt=urn:btih:32ab06b45263b54be5f8b453c6e325350c0239fa&dn=[电影天堂www.dytt89.com]二分之一的魔法BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101837.html",
+    "name": "终有一天",
+    "time": "2020-03-26",
+    "rate": "5.3",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3493/终有一天-2019_BD中英双字.mp4 magnet:?xt=urn:btih:f71f514b0fe60b97d463f210dec3682fd264d1f9&dn=[电影天堂www.dytt89.com]终有一天BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101830.html",
+    "name": "西比勒",
+    "time": "2020-03-24",
+    "rate": "6.6",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3582/西比勒-2019_BD中字.mp4 magnet:?xt=urn:btih:bc0bddb12d9d0153c04319ed87bf1b64072098ec&dn=[电影天堂www.dytt89.com]西比勒BD中字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101819.html",
+    "name": "大赢家",
+    "time": "2020-03-21",
+    "rate": "6.8",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/6312/大赢家-2020_HD国语中字.mp4 magnet:?xt=urn:btih:758ae500270f83993c37146d1d2c0c3a6df38b8e&dn=[电影天堂www.dytt89.com]大赢家HD国语中字V2.mp4 magnet:?xt=urn:btih:716b13237cf8b670cceb00751f830d6c053d37c2&dn=[电影天堂www.dytt89.com]大赢家HD国语中字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101817.html",
+    "name": "朱迪与潘趣",
+    "time": "2020-03-20",
+    "rate": "5.7",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4407/朱迪与潘趣-2019_BD中英双字.mp4 magnet:?xt=urn:btih:c57593169bd4baffbd001eb681786012a036d0a5&dn=[电影天堂www.dytt89.com]朱迪与潘趣BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101813.html",
+    "name": "刺猬索尼克",
+    "time": "2020-03-20",
+    "rate": "6.1",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/9894/刺猬索尼克-2020_BD中英双字.mp4 magnet:?xt=urn:btih:2b4ce9835a7c391caa849cdcfb0128faf8cfb850&dn=[电影天堂www.dytt89.com]刺猬索尼克BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101812.html",
+    "name": "糖心爹地",
+    "time": "2020-03-19",
+    "rate": "7",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5933/糖心爹地-2019_BD中英双字.mp4 magnet:?xt=urn:btih:0a8106ef7fdb68679f854bf6cc2b78c2e8644188&dn=[电影天堂www.dytt89.com]糖心爹地BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101292.html",
+    "name": "哪吒之魔童降世",
+    "time": "2020-03-13",
+    "rate": "8.6",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4664/哪吒之魔童降世-2019_BD国语中字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/1614/哪吒之魔童降世-2019_HD国语中字.mp4 magnet:?xt=urn:btih:5f641ee6413d8be7a5030af8eba217038292cc53&dn=[电影天堂www.dytt89.com]哪吒之魔童降世BD国语中字.mp4 magnet:?xt=urn:btih:2ae8b8adc62ab6fa86f52dd2a9a55c55eac48154&dn=[电影天堂www.dytt89.com]哪吒之魔童降世HD4K.X265国语中字.mp4 magnet:?xt=urn:btih:b0a4f428c7ca13a260d2ae118aa67f1a7a98c4ad&dn=[电影天堂www.dy2018.com]哪吒之魔童降世HD国语中字.mkv ",
+    "format": "mp4 mp4 mp4 mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/100887.html",
+    "name": "大侦探皮卡丘",
+    "time": "2020-03-13",
+    "rate": "6.7",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/6475/大侦探皮卡丘-2019_BD国粤英三语中英字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4200/大侦探皮卡丘-2019_BD中英双字.mp4 magnet:?xt=urn:btih:2abb1c56799468289b6a4aeec8b4d91950f01af3&dn=[电影天堂www.dytt89.com]大侦探皮卡丘BD国粤英三语中英双字.mp4 magnet:?xt=urn:btih:86f1143da5de6c3008c7e544c899da780754635e&dn=大侦探皮卡丘-2019_BD中英双字.mp4 magnet:?xt=urn:btih:74259cef591c1397f4f4258f0368b2a1fed3d924&dn=大侦探皮卡丘BD中英双字[电影天堂www.dy2018.com].mp4 ",
+    "format": "mp4 mp4 mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101718.html",
+    "name": "勇敢者游戏2：再战巅峰",
+    "time": "2020-03-11",
+    "rate": "6.2",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5503/勇敢者游戏2-2019_BD中英双字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/7757/勇敢者游戏2-2019_HD中英双字 (2).mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/1274/勇敢者游戏2-2019_HD中英双字.mp4 magnet:?xt=urn:btih:6430294527adafe0d8097abed2490e6ae17901d7&dn=[电影天堂www.dytt89.com]勇敢者游戏2BD中英双字.mp4 magnet:?xt=urn:btih:435e7d83f0b57a41b141de368e8d2f2957d0e6b8&dn=[电影天堂www.dytt89.com]勇敢者游戏2：再战巅峰HD4K.X265国英双语中英双字.mp4 magnet:?xt=urn:btih:2e61e6e01e000daa8ce7ffaef6241a027b313fda&dn=[电影天堂www.dytt89.com]勇敢者游戏2HD美版中英双字.mp4 magnet:?xt=urn:btih:195c453bbe66d5a8ea463c3b8d9e5efcf169ff6c&dn=[电影天堂www.dytt89.com]勇敢者游戏2HD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 mp4 mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101784.html",
+    "name": "不义之战",
+    "time": "2020-03-07",
+    "rate": "0",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/8696/不义之战-2019_HD粤语中字.mp4 magnet:?xt=urn:btih:d319680ef4b5b8f668c6a793155397c38715a7a8&dn=[电影天堂www.dytt89.com]不义之战HD粤语中字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101763.html",
+    "name": "迪克·朗之死",
+    "time": "2020-03-02",
+    "rate": "5.8",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/1710/迪克·朗之死-2019_ BD中英双字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/6746/迪克·朗之死-2019_BD中英双字.mp4 magnet:?xt=urn:btih:002b1255f03373c515f3a599fe68b3dc83bf70cf&dn=[电影天堂www.dytt89.com]迪克·朗之死BD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101760.html",
+    "name": "半路枪手",
+    "time": "2020-03-01",
+    "rate": "6.3",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4707/半路枪手-2019_BD中英双字.mp4 magnet:?xt=urn:btih:bf2e8f988214b943736f4ac140e804974e236345&dn=[电影天堂www.dytt89.com]半路枪手BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101744.html",
+    "name": "我的A级秘密",
+    "time": "2020-02-24",
+    "rate": "5.1",
+    "link": "magnet:?xt=urn:btih:ecec83ac83236ff2fa3ccc37c14a48b0ab736cc2&dn=[电影天堂www.dytt89.com]我的A级秘密BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101725.html",
+    "name": "小羊肖恩2：末日农场",
+    "time": "2020-02-20",
+    "rate": "8",
+    "link": "magnet:?xt=urn:btih:7561a3c3f74998fc95e69fb868df47efbce73a41&dn=[电影天堂www.dytt89.com]小羊肖恩2：末日农场BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101709.html",
+    "name": "冰雪奇缘2",
+    "time": "2020-02-20",
+    "rate": "7.2",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3180/冰雪奇缘2-2019_BD台粤英三语中英字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/4649/冰雪奇缘2BD中英双字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/3540/冰雪奇缘2-2019_BD中英双字.mp4 magnet:?xt=urn:btih:ae07a7a461010713cdb96be944cdec0a9fa549f6&dn=[电影天堂www.dytt89.com]冰雪奇缘2BD台粤英三语中英双字.mp4 magnet:?xt=urn:btih:be8f42db4b370b094ea98d30d0758a6a33c3d649&dn=[电影天堂www.dytt89.com]冰雪奇缘2BD中英双字V2.mp4 magnet:?xt=urn:btih:4eb8e9300c2efbee70d739a1e275b00cde2c89fa&dn=[电影天堂www.dytt89.com]冰雪奇缘2HD中英双字修复版V2.mkv magnet:?xt=urn:btih:ff17af694511c488b227c49088fd4cbb788ccc23&dn=[电影天堂www.dytt89.com]冰雪奇缘2BD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 mp4 mp4 mkv mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101670.html",
+    "name": "半个喜剧",
+    "time": "2020-02-19",
+    "rate": "7.4",
+    "link": "magnet:?xt=urn:btih:9268161fe90935f61f88b449f8401d373bfca91f&dn=[电影天堂www.dytt89.com]半个喜剧.X265.HD4K国语中字.mp4 magnet:?xt=urn:btih:512912a141978c1ab4b64a97539b857204911bbc&dn=[电影天堂www.dytt89.com]半个喜剧HD国语中字.mkv ",
+    "format": "mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101705.html",
+    "name": "利刃出鞘",
+    "time": "2020-02-15",
+    "rate": "8.2",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5792/利刃出鞘-2019_BD中英双字.mp4 jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/5148/利刃出鞘-2019_HD中英双字.mp4 magnet:?xt=urn:btih:5bda04c206f9a20f88085b66ab715554d5c874d3&dn=[电影天堂www.dytt89.com]利刃出鞘BD中英双字.mp4 magnet:?xt=urn:btih:62276ab05deb6c79c99bcbc127a854ce9b7e308c&dn=[电影天堂www.dytt89.com]利刃出鞘HD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101574.html",
+    "name": "亚当斯一家",
+    "time": "2020-02-15",
+    "rate": "6.7",
+    "link": "magnet:?xt=urn:btih:1edee2dfe9292154f06270b43ea761a87e5283a8&dn=[电影天堂www.dytt89.com]亚当斯一家BD国粤英语中英双字.mp4 magnet:?xt=urn:btih:04790e7ff3bd2f23a7c07bbb8d05a73f60162b86&dn=[电影天堂www.dytt89.com]亚当斯一家BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101711.html",
+    "name": "救火奶爸",
+    "time": "2020-02-12",
+    "rate": "4.8",
+    "link": "magnet:?xt=urn:btih:98d2af9963d544e37be0b9c22dea40c5f4630a24&dn=[电影天堂www.dytt89.com]救火奶爸BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101686.html",
+    "name": "乔乔的异想世界",
+    "time": "2020-02-08",
+    "rate": "8.4",
+    "link": "magnet:?xt=urn:btih:11475739ffa0d08d192a35c7de5c83c53f12bb37&dn=[电影天堂www.dytt89.com]乔乔的异想世界BD中英双字.mp4 magnet:?xt=urn:btih:422ae8d6abe7ce6d1d258d893314ce26f1e12c91&dn=[电影天堂www.dytt89.com]乔乔的异想世界HD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101674.html",
+    "name": "肥龙过江",
+    "time": "2020-02-06",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:74e06808757264a3029ca8cc0b5505eef6d529b8&dn=[电影天堂www.dytt89.com]肥龙过江BD国粤双语中字.mp4 magnet:?xt=urn:btih:d3ba626bba517618495b2c852efc75e5ee52188e&dn=[电影天堂www.dytt89.com]肥龙过江HD国语中字修复版.mp4 magnet:?xt=urn:btih:64b001e0bfb37ec0c0db2422cb0930d1ad696547&dn=[电影天堂www.dytt89.com]肥龙过江HD国语中字.mkv ",
+    "format": "mp4 mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101688.html",
+    "name": "去年圣诞",
+    "time": "2020-02-05",
+    "rate": "6.4",
+    "link": "magnet:?xt=urn:btih:f6e76769d5836dc14a5c60665f61ff04a893c1aa&dn=[电影天堂www.dytt89.com]去年圣诞BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/100421.html",
+    "name": "90年代中期",
+    "time": "2020-02-01",
+    "rate": "7.2",
+    "link": "magnet:?xt=urn:btih:678c498175e065564af894197e8bd4d662a22a89&dn=[电影天堂www.dytt89.com]90年代中期BD中英双字.mp4 magnet:?xt=urn:btih:737f725ed02fb1ac151a6d2e328ec17a59f626f4&dn=90年代中期_BD中英双字.mp4 ftp://d:d@a.dygodj8.com:12311/[电影天堂www.dy2018.com]90年代中期BD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101672.html",
+    "name": "宠爱",
+    "time": "2020-01-30",
+    "rate": "6.1",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/7788/宠爱-2019_HD国语中英双字.mp4 magnet:?xt=urn:btih:682923cad7d51e02b3131b8c650fedf12a68abd0&dn=[电影天堂www.dytt89.com]宠爱HD国语中英双字.mkv ",
+    "format": "mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101661.html",
+    "name": "囧妈",
+    "time": "2020-01-25",
+    "rate": "6.3",
+    "link": "magnet:?xt=urn:btih:65d49866dd9a6fc00aa35ffbf8564641232aa720&dn=[电影天堂www.dytt89.com]囧妈HD国语中英双字修复版.mkv magnet:?xt=urn:btih:b68592045384ffdecabdb6aa43f1b6905fa59d06&dn=[电影天堂www.dytt89.com]囧妈HD国语中英双字.mkv ",
+    "format": "mkv mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101660.html",
+    "name": "白烂贱客2",
+    "time": "2020-01-24",
+    "rate": "5.7",
+    "link": "magnet:?xt=urn:btih:11c64a2b1858b03c21ab7b358d4b80559a381c70&dn=[电影天堂www.dytt89.com]白烂贱客2BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101658.html",
+    "name": "两只老虎",
+    "time": "2020-01-24",
+    "rate": "6.2",
+    "link": "magnet:?xt=urn:btih:eea43fd9ca79837d96300d4ccd40dd51d69f4d3b&dn=[电影天堂www.dytt89.com]两只老虎HD国语中英双字.mkv ",
+    "format": "mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101657.html",
+    "name": "掠夺者",
+    "time": "2020-01-21",
+    "rate": "4.8",
+    "link": "magnet:?xt=urn:btih:96edda50cb4b0bbb797ccd72ce614138485a3617&dn=[电影天堂www.dytt89.com]掠夺者BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/100658.html",
+    "name": "飞驰人生",
+    "time": "2020-01-17",
+    "rate": "7",
+    "link": "magnet:?xt=urn:btih:e19796e9a349c74a78db92539c6a6522be92a402&dn=[电影天堂www.dytt89.com]飞驰人生BD国语中字.mp4 magnet:?xt=urn:btih:f24185b0af25f1e0fef06246dd5b754aa3bf5533&dn=飞驰人生_HD国语中字.mp4 ftp://d:d@a.dygodj8.com:12322/[电影天堂www.dy2018.com]飞驰人生HD国语中字.mkv ",
+    "format": "mp4 mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101649.html",
+    "name": "杀手寓言",
+    "time": "2020-01-17",
+    "rate": "7.2",
+    "link": "magnet:?xt=urn:btih:5582756fcfec4e9ac5318709a2d28314fb593bb7&dn=[电影天堂www.dytt89.com]杀手寓言BD日语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101641.html",
+    "name": "交友网战",
+    "time": "2020-01-14",
+    "rate": "6.4",
+    "link": "magnet:?xt=urn:btih:8e1153dee9b3e818b318c347282383b579bc3dbd&dn=[电影天堂www.dytt89.com]交友网战BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101638.html",
+    "name": "宛若淑女",
+    "time": "2020-01-14",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:66f2b7c72e82d81f7f6f84c77d7499e5075287ce&dn=[电影天堂www.dytt89.com]宛若淑女BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101477.html",
+    "name": "雪人奇缘",
+    "time": "2020-01-13",
+    "rate": "7.6",
+    "link": "magnet:?xt=urn:btih:e3ef5be638cd6906859f85379d3fa9fccee58b21&dn=[电影天堂www.dytt89.com]雪人奇缘BD国粤英三语中英双字.mp4 magnet:?xt=urn:btih:fb4970f453963d8e3edebea84509c297f5dcf3af&dn=[电影天堂www.dytt89.com]雪人奇缘BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101616.html",
+    "name": "杰克茜",
+    "time": "2020-01-07",
+    "rate": "6.5",
+    "link": "magnet:?xt=urn:btih:5121c75043c108d1f0167a581b1b18702e827c6c&dn=[电影天堂www.dytt89.com]杰克茜BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101589.html",
+    "name": "谁先爱上他的",
+    "time": "2020-01-02",
+    "rate": "8.6",
+    "link": "jianpian://pathtype=url&path=ftp://a.gbl.114s.com:20320/7416/谁先爱上他的-2019_HD国语中字.mp4 magnet:?xt=urn:btih:a31a095141aeff2cc66c4e198b1f6312a575f720&dn=[电影天堂www.dytt89.com]谁先爱上他的HD国语中字.mkv ",
+    "format": "mp4 mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101586.html",
+    "name": "蜡笔小新：新婚旅行飓风之遗失的野原广志",
+    "time": "2020-01-01",
+    "rate": "8.2",
+    "link": "magnet:?xt=urn:btih:3bb994b417feeb1687a39d7e39ab138a0a946716&dn=[电影天堂www.dytt89.com]蜡笔小新：新婚旅行飓风之遗失的野原广志BD国粤日语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101585.html",
+    "name": "赤裸朱丽叶",
+    "time": "2020-01-01",
+    "rate": "6.8",
+    "link": "magnet:?xt=urn:btih:a3560f0a753b36f59d0aba7e6e75c50bfd4141f7&dn=[电影天堂www.dytt89.com]赤裸朱丽叶BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101444.html",
+    "name": "好莱坞往事",
+    "time": "2019-12-30",
+    "rate": "7.5",
+    "link": "magnet:?xt=urn:btih:4afabe813f74e9e377020bad32b1d1721b7e5d32&dn=[电影天堂www.dytt89.com]好莱坞往事BD特效中英双字.mp4 magnet:?xt=urn:btih:f2e9e7d78cc95056bdb08f8072852ea4f975e5f4&dn=[电影天堂www.dytt89.com]好莱坞往事BD中英双字修复版.mp4 magnet:?xt=urn:btih:62da0ee2aed39b57b08b68d3cc880ff47982b3d4&dn=[电影天堂www.dytt89.com]好莱坞往事BD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101540.html",
+    "name": "丧尸乐园2",
+    "time": "2019-12-26",
+    "rate": "7.4",
+    "link": "magnet:?xt=urn:btih:4172962101ad8301f035c1113ea565526f1a2584&dn=[电影天堂www.dytt89.com]丧尸乐园2BD中英双字.mp4 magnet:?xt=urn:btih:22f73ab772214edef1221a4f2ce5faead18da440&dn=[电影天堂www.dytt89.com]丧尸乐园2HD韩版中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101495.html",
+    "name": "婚姻故事",
+    "time": "2019-12-24",
+    "rate": "8.8",
+    "link": "magnet:?xt=urn:btih:4f9dfad5cad01f1947066dec5d4a30356ee1e1fa&dn=[电影天堂www.dytt89.com]婚姻故事BD中字修复版V2.mp4 magnet:?xt=urn:btih:1a42753d62534cb4a188d94029cb4db108f8b09e&dn=[电影天堂www.dytt89.com]婚姻故事BD中字修复版.mp4 magnet:?xt=urn:btih:7c1c7a73e60f195161d191ebfa93d134b35a1572&dn=[电影天堂www.dytt89.com]婚姻故事BD中字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/100952.html",
+    "name": "潜行者",
+    "time": "2019-12-24",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:c71ee9d97ab2efe2001a39f3b7f8e5af25f5dd80&dn=[电影天堂www.dytt89.com]潜行者BD国粤双语中字.mp4 magnet:?xt=urn:btih:904b6e848157e0ad4a79a33b03eecdf02b23e375&dn=[电影天堂www.dy2018.com]潜行者HD国粤双语中字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101558.html",
+    "name": "乌龙恶棍",
+    "time": "2019-12-23",
+    "rate": "5.8",
+    "link": "magnet:?xt=urn:btih:b17041ec8d0e96db1b9f810628d9a461c0dcd8ad&dn=[电影天堂www.dytt89.com]乌龙恶棍BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101557.html",
+    "name": "原钻",
+    "time": "2019-12-22",
+    "rate": "8",
+    "link": "magnet:?xt=urn:btih:5cc74e83b7d8bd2bcd8afe7ef1bc7f686223ebdf&dn=[电影天堂www.dytt89.com]原钻BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101555.html",
+    "name": "受益人",
+    "time": "2019-12-22",
+    "rate": "6.7",
+    "link": "magnet:?xt=urn:btih:47bbae478f816e19c5f35fe367791331e4959b88&dn=[电影天堂www.dytt89.com]受益人HD国语中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101545.html",
+    "name": "纽约的一个雨天",
+    "time": "2019-12-19",
+    "rate": "7.5",
+    "link": "magnet:?xt=urn:btih:a6b5508579a9bc6e2e2ae3e177fe99649d19edb2&dn=[电影天堂www.dytt89.com]纽约的一个雨天BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101501.html",
+    "name": "行骗天下JP：浪漫篇",
+    "time": "2019-12-17",
+    "rate": "8.3",
+    "link": "magnet:?xt=urn:btih:4c880d01cead21494f25f97ce4611780732bad7b&dn=[电影天堂www.dytt89.com]行骗天下JP：浪漫篇BD日语中字修复版V2.mp4 magnet:?xt=urn:btih:5c69973c42cc716259f1882de1610612e274674d&dn=[电影天堂www.dytt89.com]行骗天下JP：浪漫篇修复版BD日语中字.mp4 magnet:?xt=urn:btih:a8977a1a7705ab3dafdf78f76fa0e45ad6361f20&dn=[电影天堂www.dytt89.com]行骗天下JP：浪漫篇BD日语中字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101532.html",
+    "name": "小小的愿望",
+    "time": "2019-12-16",
+    "rate": "5.1",
+    "link": "magnet:?xt=urn:btih:37268d6f031d84a66bc51ec90af92c481a8eee04&dn=[电影天堂www.dytt89.com]小小的愿望HD国语中字.mkv ",
+    "format": "mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101530.html",
+    "name": "老男孩",
+    "time": "2019-12-16",
+    "rate": "7.4",
+    "link": "magnet:?xt=urn:btih:2a85cfe8ce83dbd1afd999280faf9dab42ab0aea&dn=[电影天堂www.dytt89.com]老男孩BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101527.html",
+    "name": "你的名字是玫瑰",
+    "time": "2019-12-15",
+    "rate": "5.6",
+    "link": "magnet:?xt=urn:btih:08399f71356649f044bc613eaf59f49775cc35dc&dn=[电影天堂www.dytt89.com]你的名字是玫瑰BD韩语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101518.html",
+    "name": "奇妙的家族",
+    "time": "2019-12-13",
+    "rate": "7.1",
+    "link": "magnet:?xt=urn:btih:723de33af8afd5fbbb3241b472696bba35b218fd&dn=[电影天堂www.dytt89.com]奇妙的家族BD韩语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101497.html",
+    "name": "一个叫小小船的男孩",
+    "time": "2019-12-08",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:3b752e8b948ed76b3ad0a56fca2f58f8a7739060&dn=[电影天堂www.dytt89.com]一个叫小小船的男孩BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101493.html",
+    "name": "糟糕历史大电影：臭屁的罗马人",
+    "time": "2019-12-05",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:d85394f258d52d8f69bed7c727b4a73f216f1ca1&dn=[电影天堂www.dytt89.com]糟糕历史大电影：臭屁的罗马人BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101469.html",
+    "name": "伯纳黛特你去了哪",
+    "time": "2019-12-01",
+    "rate": "7.2",
+    "link": "magnet:?xt=urn:btih:dc093979becc7915134d5f8f33298e9a9b1e5503&dn=[电影天堂www.dytt89.com]伯纳黛特你去了哪BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101468.html",
+    "name": "舞女大盗",
+    "time": "2019-12-01",
+    "rate": "6.5",
+    "link": "magnet:?xt=urn:btih:03dea0d14f5234a209d7d31da47dfb53c69d91a4&dn=[电影天堂www.dytt89.com]舞女大盗BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101467.html",
+    "name": "与我跳舞",
+    "time": "2019-12-01",
+    "rate": "7.4",
+    "link": "magnet:?xt=urn:btih:01c3e60c55b65cc660620c4a1bf13972468108a0&dn=[电影天堂www.dytt89.com]与我跳舞BD日语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101438.html",
+    "name": "小姐与流浪汉",
+    "time": "2019-11-19",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:f2b9b5941dcfdf7fd679fe8ed7166e3244c58262&dn=[电影天堂www.dytt89.com]小姐与流浪汉BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101437.html",
+    "name": "鹿皮",
+    "time": "2019-11-18",
+    "rate": "7.2",
+    "link": "magnet:?xt=urn:btih:fa2c80b52c44457fb95d53130cb8ea615e2ccff6&dn=[电影天堂www.dytt89.com]鹿皮BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101342.html",
+    "name": "愤怒的小鸟2",
+    "time": "2019-11-16",
+    "rate": "7.2",
+    "link": "magnet:?xt=urn:btih:2ee0611e2fbc3725bba4de735f10d5f127714b98&dn=[电影天堂www.dytt89.com]愤怒的小鸟2BD国粤英三语中英双字.mp4 magnet:?xt=urn:btih:708848e23ea36a4236f0e0470980af32e3f0a443&dn=[电影天堂www.dytt89.com]愤怒的小鸟2BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101430.html",
+    "name": "深夜秀",
+    "time": "2019-11-14",
+    "rate": "6.7",
+    "link": "magnet:?xt=urn:btih:d595b148d71c944006e286e80ccba39a9d1d835d&dn=[电影天堂www.dytt89.com]深夜秀BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101417.html",
+    "name": "奉天往事",
+    "time": "2019-11-12",
+    "rate": "3.5",
+    "link": "magnet:?xt=urn:btih:5dbb67ccc3855dde676b23e54597b556fd9ce7bf&dn=[电影天堂www.dytt89.com]奉天往事HD国语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101416.html",
+    "name": "英雄无侠",
+    "time": "2019-11-12",
+    "rate": "2.8",
+    "link": "magnet:?xt=urn:btih:e9bfeebbed903c2f8cc305648d9211f77110b416&dn=[电影天堂www.dytt89.com]英雄无侠HD国语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101412.html",
+    "name": "只有貓知道",
+    "time": "2019-11-11",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:ebbd27f233ef66fcd6ada008ef0e45bac09c0a67&dn=[电影天堂www.dytt89.com]只有貓知道BD日语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101405.html",
+    "name": "冬季浪漫故事",
+    "time": "2019-11-09",
+    "rate": "0",
+    "link": "magnet:?xt=urn:btih:0d0a543764d6901ed460a165fa763789d6d7d281&dn=[电影天堂www.dytt89.com]冬季浪漫故事BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101397.html",
+    "name": "城市猎人：新宿",
+    "time": "2019-11-07",
+    "rate": "7.1",
+    "link": "magnet:?xt=urn:btih:0d642c971e3cd925b57095d9b2bfff07a27da7d7&dn=[电影天堂www.dytt89.com]城市猎人：新宿BD日语中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101393.html",
+    "name": "别告诉她",
+    "time": "2019-11-06",
+    "rate": "7.8",
+    "link": "magnet:?xt=urn:btih:a1b8a9d2290d9093433723efaef3efe36c7d7b4d&dn=[电影天堂www.dytt89.com]别告诉她BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101371.html",
+    "name": "无上婚宴",
+    "time": "2019-10-31",
+    "rate": "5.5",
+    "link": "magnet:?xt=urn:btih:ad8a1283a2434700cc1dd7349dc6ec88692bae99&dn=[电影天堂www.dytt89.com]无上婚宴BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101370.html",
+    "name": "读书会",
+    "time": "2019-10-31",
+    "rate": "6.6",
+    "link": "magnet:?xt=urn:btih:5baa1abebfe012e8879c36329f5552e80cf69584&dn=[电影天堂www.dytt89.com]读书会BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101368.html",
+    "name": "我在雨中等你",
+    "time": "2019-10-30",
+    "rate": "7.9",
+    "link": "magnet:?xt=urn:btih:236f05033880884317880efc2f976a5c6dac082e&dn=[电影天堂www.dytt89.com]我在雨中等你BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101366.html",
+    "name": "好小子们",
+    "time": "2019-10-30",
+    "rate": "7.5",
+    "link": "magnet:?xt=urn:btih:784620222b32daf6d6314d5e64e3f062b800060d&dn=[电影天堂www.dytt89.com]好小子们BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101364.html",
+    "name": "愤怒的小鸟2免费完整版_愤怒的小鸟2在线观看",
+    "time": "2019-10-28",
+    "rate": "7.2",
+    "link": "magnet:?xt=urn:btih:2ee0611e2fbc3725bba4de735f10d5f127714b98&dn=[电影天堂www.dytt89.com]愤怒的小鸟2BD国粤英三语中英双字.mp4 magnet:?xt=urn:btih:708848e23ea36a4236f0e0470980af32e3f0a443&dn=[电影天堂www.dytt89.com]愤怒的小鸟2BD中英双字.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101351.html",
+    "name": "哪吒魔童降临下载_哪吒之魔童降世完整版在线观看",
+    "time": "2019-10-26",
+    "rate": "8.6",
+    "link": "magnet:?xt=urn:btih:b0a4f428c7ca13a260d2ae118aa67f1a7a98c4ad&dn=[电影天堂www.dy2018.com]哪吒之魔童降世HD国语中字.mkv ",
+    "format": "mkv "
+}{
+    "IP_add": "https://www.dy2018.com/i/101350.html",
+    "name": "岳父岳母真难当2",
+    "time": "2019-10-26",
+    "rate": "6.6",
+    "link": "magnet:?xt=urn:btih:4bcbd52271a4b6611a555f3a7ac1a56531c1e79d&dn=[电影天堂www.dy2018.com]岳父岳母真难当2BD中字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101318.html",
+    "name": "小怪物",
+    "time": "2019-10-19",
+    "rate": "6.5",
+    "link": "magnet:?xt=urn:btih:f79189ce55075d4e7cbff85a7b6d941c00eab76c&dn=[电影天堂www.dy2018.com]小怪物BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101177.html",
+    "name": "光盲青春",
+    "time": "2019-10-14",
+    "rate": "6.9",
+    "link": "magnet:?xt=urn:btih:8306dd57502873a565bd82128fb7da5dca5c2d50&dn=光盲青春-2019_BD中英双字.mp4 magnet:?xt=urn:btih:862cbbf3d005032227b1747f18834971db3eeaff&dn=光盲青春BD中英双字[电影天堂www.dy2018.com]修复V2.mp4 ",
+    "format": "mp4 mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101296.html",
+    "name": "自卫的艺术",
+    "time": "2019-10-12",
+    "rate": "7.6",
+    "link": "magnet:?xt=urn:btih:bbae60295438624b759205c86a6ffc8b5d48da00&dn=[电影天堂www.dy2018.com]自卫的艺术BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101293.html",
+    "name": "迪克·朗之死",
+    "time": "2019-10-12",
+    "rate": "6.2",
+    "link": "magnet:?xt=urn:btih:44c6a4e3b90d3bc364d7d5f5a19d92e1a100cbcb&dn=[电影天堂www.dy2018.com]迪克·朗之死BD中英双字.mp4 ",
+    "format": "mp4 "
+}{
+    "IP_add": "https://www.dy2018.com/i/101203.html",
+    "name": "玩具总动员4",
+    "time": "2019-10-11",
+    "rate": "8.7",
+    "link": "magnet:?xt=urn:btih:b1b436cabd8e65c06aac9f29826c445e7ee40d74&dn=[电影天堂www.dy2018.com]玩具总动员4BD国粤英三语中英双字.mp4 magnet:?xt=urn:btih:b9be16ec44947122d1b263d845a6d1fb0379f217&dn=玩具总动员4-2019_BD中英双字.mp4 magnet:?xt=urn:btih:3cdd76673a455857f62d51a7555d0cff79168c8b&dn=[电影天堂www.dy2018.com]玩具总动员4BD中英双字.mp4 ",
+    "format": "mp4 mp4 mp4 "
+}
