@@ -12,17 +12,12 @@
         },
         {
             "video_name": "错视画的利牙",
-            "video_rate": "6.8",
+            "video_rate": "6.7",
             "video_image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2627545662.jpg"
         },
         {
-            "video_name": "电影之神",
-            "video_rate": "7.5",
-            "video_image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2635592713.jpg"
-        },
-        {
             "video_name": "罪人",
-            "video_rate": "6.6",
+            "video_rate": "6.5",
             "video_image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2680985686.jpg"
         },
         {
@@ -117,7 +112,7 @@
         },
         {
             "video_name": "哭泣的男人",
-            "video_rate": "7.0",
+            "video_rate": "6.9",
             "video_image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675376450.jpg"
         },
         {
@@ -192,7 +187,7 @@
         },
         {
             "video_name": "猎魔人：狼之噩梦",
-            "video_rate": "7.8",
+            "video_rate": "7.9",
             "video_image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2675863739.jpg"
         },
         {
@@ -249,6 +244,11 @@
             "video_name": "人之怒",
             "video_rate": "6.7",
             "video_image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2642842673.jpg"
+        },
+        {
+            "video_name": "新神榜：哪吒重生",
+            "video_rate": "7.0",
+            "video_image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2631711326.jpg"
         }
     ]
 }
